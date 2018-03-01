@@ -12,6 +12,7 @@ It then displays the following,
 
 #### Features:-
 - React Native Project (Created by ```react-native init```)
+- Supports Android as of now
 - Uses **Mapbox Geocoding API** to get the Coordinates of the places
 - **Mapbox Directions API** is used to  get the optimal Route between the places, along with Distance and Duration
 - Appropriate error messages are displayed to guide the User in entering the correct details
