@@ -23,7 +23,7 @@ Mapbox API token - Find instructions to get one [here](https://www.mapbox.com/he
 
 
 #### Set up development environment
-Follow the steps as mentioned in **Getting Started** section of react-native website in the **Build with native code** tab
+Follow the steps as mentioned in **Getting Started** section of [react-native website](http://facebook.github.io/react-native/docs/getting-started.html) in the **Build with native code** tab
 
 
 #### Clone Repository and Running on device/emulator
